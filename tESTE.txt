@@ -1,24 +1,5 @@
-arquivo texto;...
+create table movimentos(
+ idestoque int primary key
 
-
-A vida é bela de mais!!!
-
-
-Eliza e Edivaldo
-
-hoje foi realizado a nossa reunião scrum
-
-C32REVNWENVKWNBKRWNBK3TFD
-
-
-
-OUTRO TESTE
-
-CQVWMFMW
-
-JESS É BOM DEMAIS
-LEVMKWEFVWB
-
-A VIDA E BOA DEMAIS
 
 
