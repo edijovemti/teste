@@ -1,7 +1,20 @@
+<<<<<<< HEAD
 create table movimentos(
  idestoque int primary key
+=======
+A AUNICA COISA QUE IMPORTA AGORA
+É QUE CADA TABELA QUE EU CRIO NÃO É MAIS A MESMA COLUNA
+QUE VAI NAS PASTAS E NAO CONSIGO PENSAR QUANDO VEJO
+UMA LINHA QUEBORADA QUE NÃO FOI APAGADA
+>>>>>>> EDI
 
 HOJE ESTA MUITO DIFICIL FAZER ESTA APRESENTAÇÃO
 
+<<<<<<< HEAD
 MAIS ACHO QUE VAI DAR CERTO
 
+=======
+hoje é apenas uma apresentação normal
+
+
+>>>>>>> EDI
