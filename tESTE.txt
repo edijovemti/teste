@@ -1,5 +1,5 @@
 create table movimentos(
  idestoque int primary key
 
-
+HOJE ESTA MUITO DIFICIL FAZER ESTA APRESENTAÇÃO
 
