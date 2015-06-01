@@ -1,0 +1,7 @@
+C:\Users\edijovem\Desktop\AgendaContato\AgendaContato\bin\AgendaContato.dll
+C:\Users\edijovem\Desktop\AgendaContato\AgendaContato\bin\AgendaContato.pdb
+C:\Users\edijovem\Desktop\AgendaContato\AgendaContato\bin\AgendaContato.Data.dll
+C:\Users\edijovem\Desktop\AgendaContato\AgendaContato\bin\AgendaContato.Data.pdb
+C:\Users\edijovem\Desktop\AgendaContato\AgendaContato\obj\Debug\AgendaContato.dll
+C:\Users\edijovem\Desktop\AgendaContato\AgendaContato\obj\Debug\AgendaContato.pdb
+C:\Users\edijovem\Desktop\AgendaContato\AgendaContato\obj\Debug\AgendaContato.Web.csprojResolveAssemblyReference.cache

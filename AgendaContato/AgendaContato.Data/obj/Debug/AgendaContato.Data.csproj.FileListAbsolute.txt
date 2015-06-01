@@ -1,0 +1,4 @@
+C:\Users\edijovem\Desktop\AgendaContato\AgendaContato.Data\bin\Debug\AgendaContato.Data.dll
+C:\Users\edijovem\Desktop\AgendaContato\AgendaContato.Data\bin\Debug\AgendaContato.Data.pdb
+C:\Users\edijovem\Desktop\AgendaContato\AgendaContato.Data\obj\Debug\AgendaContato.Data.dll
+C:\Users\edijovem\Desktop\AgendaContato\AgendaContato.Data\obj\Debug\AgendaContato.Data.pdb
